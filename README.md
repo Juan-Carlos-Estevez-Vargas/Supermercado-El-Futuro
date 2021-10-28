@@ -7,4 +7,4 @@ Como paso primordial para que el aplicativo funcione correctamente es importar a
 
 ![Registrar Producto](https://user-images.githubusercontent.com/85718854/139331819-6ac1c463-ff23-463c-843f-0d372b43c85e.png)
 
-![Actualizar o eliminar productos](https://user-images.githubusercontent.com/85718854/139331823-a5e1cf94-89e8-4360-98af-bc0553b9fac7.pn
+![Actualizar o eliminar productos](https://user-images.githubusercontent.com/85718854/139331823-a5e1cf94-89e8-4360-98af-bc0553b9fac7.png
